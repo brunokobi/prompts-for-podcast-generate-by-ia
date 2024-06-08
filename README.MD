@@ -26,14 +26,18 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# Projeto Podcast Gerado por I.A.s  -- Título do Podcast: "Conversas Futurísticas"
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+## 🧠 Prompts
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|titulo econteúdo | crie um podcast onde um pessoal entrevista um IA, uma tecmatica que o entrevistador questiona se as ias são risco pra a humanidade e a ia utiliza de argumentos , se talvez os humanos não seja o verdadeiro risco  |
 
 ## 💻 Tecnologias utilizadas no projeto
 
