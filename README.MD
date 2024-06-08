@@ -1,6 +1,7 @@
 # Projeto Podcast Gerado por I.A.s
-<p align="center">
 [Clique aqui para ouvir o podcast](https://youtu.be/7h-wBKM8BU4)
+
+<p align="center">
 <img 
     src="./assets/cover.png"
     width="300"
