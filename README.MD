@@ -23,7 +23,15 @@
 </p>
 
 <div align="center">
-    <audio src="podcastAI.mp4" controls title="Podcast editado"></audio>
+  ## Meu Podcast
+
+Clique no botão abaixo para ouvir o áudio.
+
+<audio controls>
+  <source src="podcastAI.mp4" type="audio/mp4">
+  Seu navegador não suporta o elemento de áudio.
+</audio>
+
 </div>
 
 # Projeto Podcast Gerado por I.A.s
