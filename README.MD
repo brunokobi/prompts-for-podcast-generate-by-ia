@@ -18,21 +18,8 @@
 </a>
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
+[Clique aqui para ouvir o podcast](https://youtu.be/7h-wBKM8BU4)
 
-<div align="center">
-  ## Meu Podcast
-
-Clique no botão abaixo para ouvir o áudio.
-
-<audio controls>
-  <source src="podcastAI.mp4" type="audio/mp4">
-  Seu navegador não suporta o elemento de áudio.
-</audio>
-
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
