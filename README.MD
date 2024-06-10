@@ -1,5 +1,5 @@
 # Projeto Podcast Gerado por I.A.s
-[Clique aqui para ouvir o podcast](https://youtu.be/7h-wBKM8BU4)
+🎙️[Clique aqui para ouvir o podcast](https://youtu.be/7h-wBKM8BU4)🎙️
 
 <p align="center">
 <img 
@@ -9,11 +9,9 @@
 </p>
 
 
-# Título do Podcast: "Conversas Futurísticas"
+# 🎙️Título do Podcast: "Conversas Futurísticas"🎙️
 
-##Tema: As IAs são um risco para humanidade ?
-
-Tema As IAs são um risco para humanidade ?
+## 📰 Tema: As IAs são um risco para humanidade ?
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
